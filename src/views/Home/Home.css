@@ -1,0 +1,13 @@
+.gym-title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: brown;
+    color: white;
+}
+.Gymcards-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}

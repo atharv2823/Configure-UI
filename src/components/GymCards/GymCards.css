@@ -1,0 +1,44 @@
+.gym-image{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+
+}
+.card-title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.cards-body{
+    background-color: rgb(176, 120, 28);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+    position: relative;
+
+}
+.phone-no{
+    position: absolute;
+    left: 20px;
+    bottom: 80px;
+    color: white;
+    font-size: 20px;
+}
+.email{
+    position: absolute;
+    left: 20px;
+    bottom: 50px;
+    font-size: 20px;
+    color: white;
+}
+.premium{
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+    color: white;
+    font-size: 20px;
+}
